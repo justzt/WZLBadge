@@ -12,7 +12,7 @@
 
 #define kWZLBadgeDefaultFont				([UIFont boldSystemFontOfSize:9])
 
-#define kWZLBadgeDefaultMaximumBadgeNumber                     99
+#define kWZLBadgeDefaultMaximumBadgeNumber                     9999
 
 @implementation UIView (WZLBadge)
 

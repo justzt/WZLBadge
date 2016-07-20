@@ -69,7 +69,7 @@
             if (i == 2) {
                 btn.badgeBgColor = [UIColor blueColor];
             }
-        [btn showBadgeWithStyle:styles[i] value:100 animationType:WBadgeAnimTypeNone];//actual badge call comes here.
+        [btn showBadgeWithStyle:styles[i] value:0 animationType:WBadgeAnimTypeNone];//actual badge call comes here.
         [staticBadges addObject:btn];
     }
     
